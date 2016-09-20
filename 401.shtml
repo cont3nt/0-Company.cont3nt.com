@@ -1,0 +1,554 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Cont3nt.com - the first Platform-as-a-Service for media transactions</title>
+    <meta name="description" content="Cont3nt.com is the first Platform-as-a-Service for media transactions and real time media markets. ">
+    <link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.jpg">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.jpg">
+    <link rel="stylesheet" type="text/css" href="assets/css/custom-animations.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/lib/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5shiv.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="landing-page" class="landing-page">
+    <!-- Preloader -->
+    <div class="preloader-mask">
+        <div class="preloader"><div class="spin base_clr_brd"><div class="clip left"><div class="circle"></div></div><div class="gap"><div class="circle"></div></div><div class="clip right"><div class="circle"></div></div></div></div>
+    </div>
+
+    <header>
+        <nav class="navigation navigation-header">
+            <div class="container">
+                <div class="navigation-brand">
+                    <div class="brand-logo">
+                        <a href="/" class="logo"></a><a href="/" class="logo logo-alt"></a>
+                    </div>
+                </div>
+                <button class="navigation-toggle">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navigation-navbar collapsed">
+                    <ul class="navigation-bar navigation-bar-left">
+                        <li><a href="/#hero">Home</a></li>
+                        <li><a href="#media">About</a></li> 
+                        <li><a href="#featuresbar">Features</a></li>                        
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#">SOLUTIONS</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="contentcreators"><span class="highlight"><strong>CONTENT DISTRIBUTE</strong></class><br><span style="font-size: 80%; color: #e0e0e0; font-family: verdana;">SIMPLE DELIVERY,<br>PAYMENT &AMP; ANALYTICS</span></a></li>
+                                <li><a href="contentexchange"><span class="highlight"><strong>CONTENT EXCHANGE</strong></class><br><span style="font-size: 80%; color: #e0e0e0; font-family: verdana;">create sumbission portals,<BR>private exchanges,<Br> or media marketplaces</span></a></li>
+                                <li><a href="mediarequester"><span class="highlight"><strong>SOCIAL MEDIA ACQUISITION</class><br></strong><span style="font-size: 80%; color: #e0e0e0; font-family: verdana;">easily acquire &amp; commission<Br>content from social</span></a></li>
+                                
+                                <li><a href="http://mobilismobile.com" target="_blank"><span class="highlight"><strong>MOBILIS MOBILE</class>&nbsp;&nbsp;&nbsp;<i class="icon icon-office-60" class="highlight"></i><br></strong><span style="font-size: 80%; color: #e0e0e0; font-family: verdana;">customized mobile apps &amp;<br>API for media</a></li>
+                                <li><a href="#"><span class="highlight"><strong>FotoX</strong></class>&nbsp;<span style="font-size: 80%; color: #e0e0e0; font-family: verdana;" class=""><em>(soon)</em></span><br><span style="font-size: 80%; color: #e0e0e0; font-family: verdana;">on-demand photographer &amp;<br> videographer platform</a></li>                              
+                            </ul>
+                        </li>   
+                    </ul>
+                    <ul class="navigation-bar navigation-bar-right">
+
+                        <li><a href="#featurelist">&nbsp;</a></li>
+                        <li class="featured"><a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-sm btn-outline-color">Schedule a demo</span></a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+
+            
+
+            <div class="alert alert-warning align-center" style="margin-bottom: 0px;">
+                <button type="button" class="close default" data-dismiss="alert" aria-hidden="true">&times;</button>
+                <strong>Sorry, we couldn't get there.</strong> 401 - Authorization Required.
+                <i class="icon icon-alerts-01"></i>
+            </div>          
+
+
+
+
+
+        </nav>
+
+
+
+    </header>
+
+
+
+    <div id="hero" class="static-header window-height light-text hero-section clearfix">
+        <div class="heading-block centered-block animated align-center" data-animation="fadeIn" data-duration="700">
+            <div class="container">
+                <h1>Create your <span class="highlight">media platform</span> today!</h1>
+                <h5 style="margin-bottom: 33px;">the first Platform-as-a-Service for media transactions</h5>
+                <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-solid" style="padding-right: 50px; padding-left: 50px;">Schedule a Demo</span></a><a href="#media" class="btn btn-outline">Take tour</a>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="media" class="clients-section align-center">
+        <div class="container" style="padding: 15px;">
+            <ul class="list-inline logos">
+                <li><img class="animated" data-animation="fadeInDown" data-duration="500" src="assets/img/logos/wp-logo.png" alt="Washington Post" /></li>
+                <li><img class="animated" data-animation="fadeInUp" data-duration="500" data-delay="200" src="assets/img/logos/gigaom.png" alt="GigaOm" /></li>
+                <li><img class="animated" data-animation="fadeInDown" data-duration="500" data-delay="400" src="assets/img/logos/betakit.png" alt="BetaKit" /></li>
+                <li><img class="animated" data-animation="fadeInUp" data-duration="500" data-delay="600" src="assets/img/logos/tc-logo-grey.png" alt="Tech Cocktail" /></li>
+            </ul>
+        </div>
+    </div>
+
+
+
+
+
+    <section id="featurelist" class="section about-section align-center dark-text">
+        <div class="container">
+            <ul class="nav nav-tabs alt">
+                <li class="active"><a href="#first-tab-alt" data-toggle="tab">WHAT IS IT?</a></li>
+                <li><a href="#second-tab-alt" data-toggle="tab">THE PLATFORM</a></li>
+                <li><a href="#third-tab-alt" data-toggle="tab">Mobile-First</a></li>
+                <li><a href="#fourth-tab-alt" data-toggle="tab">Simple to Launch</a></li>
+            </ul>
+
+            <div class="tab-content alt">
+                <div class="tab-pane active" id="first-tab-alt">
+                    <div class="section-content row">
+                        <div class="col-sm-6 animated" data-delay="200" data-duration="700" data-animation="fadeInLeft">
+                            <img src="assets/img/features/storiesdashboardcomputer.png" class="img-responsive" alt="process 3"  style="margin-bottom: 25px;"/>
+                        </div>
+                        <div class="col-sm-6 animated" data-delay="200" data-duration="700" data-animation="fadeInRight">
+                            <br/>
+                            <article class="align-center">
+                                <h3><span class="highlight">WHAT</span> IS IT?</h3>
+                                <p class="sub-title alt">the first Platform-as-a-Service for media transactions</p>
+                                <p>Cont3nt.com is an award-winning toolset that enables real-time media transactions on any scale. We create marketplaces and delivery tools that power media companies, brands, and professional freelancers.</p>
+                                <br/>
+                                <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-solid">Schedule a Call</span></a>
+                                <a href="#featuresbar" class="btn btn-outline-color">See features</a>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="tab-pane" id="second-tab-alt">
+                    <div class="section-content row">
+                        <div class="col-sm-6 animated" data-delay="200" data-duration="700" data-animation="fadeInLeft">
+                            <img src="assets/img/features/storiesdashboardcomputer.png" class="img-responsive" alt="process 3"  style="margin-bottom: 25px;"/>
+                        </div>
+                        <div class="col-sm-6 animated" data-delay="200" data-duration="700" data-animation="fadeInRight">
+                            <br/>
+                            <article class="align-center">
+                                <h3>POWERING <span class="highlight">MEDIA PLATFORMS</span></h3>
+                                <p class="sub-title alt">Enabling transactions for media platforms</p>
+                                <p>Whether you are a enterprise media platform, content creator, news organization, mobile app or new media startup, the Cont3nt.com media platform enables your infrastructure and provides a backbone for real-time rights-managed transactions. </p>
+                                
+                                <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-solid">Schedule a Call</span></a>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane" id="third-tab-alt">
+                    <div class="section-content row">
+                        <div class="col-sm-6 pull-right animated" data-delay="200" data-duration="700" data-animation="fadeInRight">
+                            <img src="assets/img/features/phone.jpg" class="img-responsive pull-right" alt="process 2" />
+                        </div>
+                        <div class="col-sm-6 animated" data-delay="200" data-duration="700" data-animation="fadeInLeft">
+                            <br/><br/>
+                            <article class="align-center">
+                                <h3>MOBILE <span class="highlight">FIRST</span></h3>
+                                <p class="sub-title">Launch apps, create mobile contributor networks,<br>or integrate your app with our powerful API</p>
+                                <p>Billions of users are using mobile phones to consume and deliver content. The Cont3nt.com platform powers custom media apps, citizen journalism networks, and professional mobile submissions. Use our platform to create new apps or add functionality to your existing apps via our powerful API. </p>
+                                
+                                <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-solid">Schedule a Call</span></a>
+                            </article>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane" id="fourth-tab-alt">
+                    <div class="section-header align-center">
+                        <h2>SIMPLE TO LAUNCH</h2>
+                        <!--p class="sub-header animated" data-duration="700" data-animation="zoomIn">As simple as you want it to be &mdash; use our out-of-the-box platform, integrate via API, or create a custom experience.
+                        </p-->
+                    </div>
+                    <div class="section-content row animated" data-duration="700" data-delay="200" data-animation="fadeInDown">
+                        <div class="col-sm-4">
+                            <article class="align-center">
+                                <i class="howitworks icon icon-seo-icons-18 highlight"></i>
+                                <span class="heading">SCHEDULE A CALL</span>
+                                <p class="thin" >Our experts will analyze your needs<br />and provide a custom demo.</p>
+                            </article>
+                            <!--<span class="icon icon-arrows-04"></span>-->
+                        </div>
+                        <div class="col-sm-4">
+                            <article class="align-center">
+                                <i class="howitworks icon icon-seo-icons-03 highlight"></i>
+                                <span class="heading">CHOOSE YOUR FUNCTIONALITY</span>
+                                <p class="thin" >We will enable the features you need with the configuration that works best for you.</p>
+                            </article>
+                            <!--<span class="icon icon-arrows-04"></span>-->
+                        </div>
+                        <div class="col-sm-4">
+                            <article class="align-center">
+                                <i class="howitworks icon icon-emoticons-05 highlight"></i>
+                                <span class="heading">LAUNCH!</span>
+                                <p class="thin" >Sit back and relax. We will be on hand to provide support, hosting &amp; new features.</p>
+                            </article>
+                        </div>
+
+                    </div>
+                    <div class="section-header align-center">
+
+                        <p>
+                                <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-solid">Schedule a Demo</span></a>   
+                        </p>
+                    </div>
+                    <br/>
+                    <br/>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <section id="featuresbar" class="section base-clr-bg align-center light-text">
+        <div class="container">
+                    <!--div class="section-header align-center">
+                        <h2>3 EASY STEPS</h2>
+                        <p class="sub-header animated" data-duration="700" data-animation="zoomIn">
+                            Lorem ipsum dolor sit atmet sit dolor greand fdanrh s
+                            <br />dfs sit atmet sit dolor greand fdanrh sdfs
+                        </p>
+                    </div-->
+
+                    <div class="section-content row animated" data-duration="700" data-delay="200" data-animation="fadeInDown">
+                        <div class="col-md-2 col-sm-4 col-xs-4">
+                            <article class="align-center">
+                                <i class="icon-office-24" style="font-size: 50px;"></i>
+                                <span class="heading">REALTIME<br>TRANSACTIONS</span>
+                            </article>
+                            <!--<span class="icon icon-arrows-04"></span>-->
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-4">
+                            <article class="align-center">
+                                <i class="icon-office-31" style="font-size: 50px;"></i>
+                                <span class="heading">CROWDSOURCE<br>PHOTO &AMP; VIDEO</span>
+                            </article>
+                            <!--<span class="icon icon-arrows-04"></span>-->
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-4">
+                            <article class="align-center">
+                                <i class="icon-office-44" style="font-size: 50px;"></i>
+                                <span class="heading">RIGHTS&mdash;MANAGED<br>DELIVERIES</span>
+                            </article>
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-4">
+                            <article class="align-center">
+                                <i class="icon-socialmedia-07" style="font-size: 50px;"></i>
+                                <span class="heading">SOCIAL MEDIA<br>ACQUISITION</span>
+                            </article>
+                            <!--<span class="icon icon-arrows-04"></span>-->
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-4">
+                            <article class="align-center">
+                                <i class="icon-faces-users-04" style="font-size: 50px;"></i>
+                                <span class="heading">CONTRIBUTOR<br>NETWORKS</span>
+                            </article>
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-4">
+                            <article class="align-center">
+                                <i class="icon-seo-icons-28" style="font-size: 50px;"></i>
+                                <span class="heading">EXTENSIVE<BR>APIs</span>
+                            </article>
+                            <!--<span class="icon icon-arrows-04"></span>-->
+                        </div>
+                    </div>
+
+
+        </div>
+    </section>
+
+<br><br>
+
+    <section id="process" class="section dark">
+        <div class="container">
+            <div class="section-content row">                
+                
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                    <img src="assets/img/features/bostonminisized.jpg" class="img-responsive" alt="process 3" style="margin-bottom: 25px;"/>
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInRight">
+
+                    <article>
+                        <br><br>
+                        <h3>LICENSING, FILE-DELIVERY, METADATA, &amp; PAYMENTS <span class="highlight">SOLVED</span> </h3>
+                        <div class="sub-title alt">Seamlessly conduct and process media transactions</div>
+                        
+                        <p>Any photo or video file, any-to-any transcoding, meta-data extraction, and secure payments. Everything to conduct real-time transactions anywhere in the world. If this sounds too good to be true, let us give you the demo. It's magic!</p>
+
+                        <!--a class="btn btn-sm btn-solid base_clr_bg" href="#" style="margin-left: 0px;    ">Learn More ></a-->    
+
+
+                    </article>
+                </div>
+              
+
+
+                                
+                <hr class="clearfix" />
+
+                <div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight" style="">
+                    <img src="assets/img/features/2-mixphone-left-crowd.png" class="img-responsive" alt="process 2"  style="margin-bottom: 25px;"/>
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft" style="margin-bottom: 25px;">
+
+                    <article>
+                        <br><br>
+                        <h3><Br><span class="highlight">CROWD-SOURCED</span> PHOTO &AMP; VIDEO SUBMISSIONS</h3>
+                       
+                        <div class="sub-title alt">Instantly source content and manage submissions</div>
+                        
+                        <p>Collect photo &amp; video submissions from citizen journalists &amp; professionals. Issue individual or group assignments to crowdsource event coverage. Instantly acquire exclusive content from mobile phones and remote reporters.</p>
+                       
+                        <!--a class="btn btn-sm btn-solid base_clr_bg" href="#" style="margin-left: 0px;">Learn More ></a-->
+                                
+                    </article>
+                </div>
+
+
+
+
+                <hr class="clearfix" />
+                
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                    <br><img src="assets/img/features/submission.png" class="img-responsive" alt="process 3" style="margin-bottom: 25px;"/><br>
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInRight" style="margin-bottom: 25px;">
+
+                    <article>
+                        <br><br>
+                        <h3>A REAL-TIME  <span class="highlight">SUBMISSION PLATFORM</span> FOR MEDIA</h3>
+                        <div class="sub-title alt">Seamlessly collect and process submissions from contributor networks</div>
+                        
+                        <p>No more emails, phone-calls, ftp drops and fedex deliveries. The Content Exchange enables large media enterprises to manage their networks of contributors and partners from powerful editorial dashboards closely integrated with your asset management systems.</p>
+
+                        <!--a class="btn btn-sm btn-solid base_clr_bg" href="#" style="margin-left: 0px;">Learn More ></a-->    
+                    </article>
+                </div>
+                
+               
+                <hr class="clearfix" />
+
+                <div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight" style="margin-bottom: 25px;">
+                    <img src="assets/img/features/bostonminisized.jpg" class="img-responsive" alt="process 2" />
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                    <article>
+                        <br><br>
+                        <h3>INSTANT RIGHTS-MANAGED CONTENT <span class="highlight">TRANSACTIONS</span> </h3>
+                        <div class="sub-title alt">Seamlessly collect and process media transactions.</div> 
+                        
+                        <p>Thousands of users – be they stringers, affiliates, or partners can now submit content in a standard format defined by your organization and managed by your editors in an intuitive dashboard.</p>
+
+                        <!--a class="btn btn-sm btn-solid base_clr_bg" href="#" style="margin-left: 0px;">Learn More ></a-->    
+                    </article>
+                </div>
+
+
+                <hr class="clearfix" />
+                
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+                    <img src="assets/img/features/requestscreenshot.png" class="img-responsive" alt="process 3" style="padding-top: 40px;"/><br>
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInRight">
+
+                    <article>
+                        <br><br><br>
+                        <h3><br>POWERFUL TOOLS TO SOURCE CONTENT VIA <span class="highlight">SOCIAL MEDIA</span></h3>
+                       
+                        <div class="sub-title alt">Tools to request, license, &amp; acquire via social media.</div>
+                        
+                        <p>Request stories for free or offer pricing. Use default terms or upload your own. You can even request exclusives and additional assets. How would you like to have 1 billion contributors?!</p>
+
+                        <!--a class="btn btn-sm btn-solid base_clr_bg" href="#" style="margin-left: 0px;">Learn More ></a-->    
+                    </article>
+                </div>
+
+  
+                <hr class="clearfix" />
+
+                <div class="col-sm-6 pull-right animated hiding" data-animation="fadeInRight">
+                    <img src="assets/img/features/storiesdashboardcomputer.png" class="img-responsive" alt="process 2"  style="margin-bottom: 25px;"/>
+                </div>
+                <div class="col-sm-6 animated hiding" data-animation="fadeInLeft">
+
+                    <article>
+                        <br><br><br>
+                        <h3>BUILT FOR <span class="highlight"> PROFESSIONALS, BRANDS &AMP; NEWSROOMS</span></h3>
+                        <div class="sub-title alt">Easily integrate into your editorial workflow.<br/> No technical integration required.</div>
+                        
+                        <p>Teams can share an editorial dashboard and easily collect and manage assets, licensing, & metadata. No more unanswered phone calls, tweets, and difficult rights-clearance conversations. Everything is done on your terms, automatically, and in real-time.</p>
+
+                        <!--a class="btn btn-sm btn-solid base_clr_bg" href="#" style="margin-left: 0px;">Learn More ></a-->    
+                    </article>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <section id="guarantee" class="long-block light-text guarantee-section">
+        <div class="container">
+            <div class="col-md-12 col-lg-9">
+                <i class="icon icon-seo-icons-18 pull-left"></i>
+                <article class="pull-left" style="margin-top: 10px; margin-left: 10px;">
+                    <h3><strong>LAUNCH YOUR MEDIA PROJECT NOW!</strong></h3>
+                    <p class="thin">Contact us to schedule a call so we can get you up and running</p>
+                </article>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+                <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style=""><span class="btn btn-outline" style="margin-top: 7px;"><strong>Schedule a Demo</strong></span></a>
+            </div>
+        </div>
+    </section>
+
+    <footer id="footer" class="footer light-text">
+        <div class="container">
+            <div class="footer-content row">
+                <div class="col-sm-3 col-xs-12" style="padding: 10px 30px 0px 45px;">
+                    <div class="logo-wrapper" style="margin-right: 30px;">
+                        <img src="assets/img/logo.png" alt="logo" class="img-responsive" />
+                    </div>
+                    <p style="margin-right: 20px;">Cont3nt.com enables a realtime market for media transactions. We create tools that power the business of media companies, brands, and professional freelancers.</p>
+                    <p style="margin-right: 20px;"> Our mission is to help create a global free market for a free press. Join us!</p>
+                    <ul class="list-inline socials" style="text-align: left; margin-top: 25px; margin-left: 0px; padding-left: 0px; padding-top: 0px;">
+                        <li><a href="http://facebook.com/cont3ntdotcom" target="_blank"><span class="icon icon-socialmedia-08"></span></a></li>
+                        <li><a href="http://twitter.com/cont3nt" target="_blank"><span class="icon icon-socialmedia-07"></span></a></li>
+                    </ul>
+
+                </div>
+                <div class="col-sm-3 col-xs-12" style=" padding-left: 55px;">
+                    <strong class="heading" style="text-align: left; margin-top: 15px;">ABOUT US</strong>
+                        <a href="#">Home</a><br>
+                        <a href="index#featuresbar">Features</a><br>
+                        <!--a href="developers">Developers</a><br-->
+                        <a class="typeform-share" href="https://fotohires.typeform.com/to/dRSAsN" data-mode="1" target="_blank" style="">Schedule a demo</a><br><br> 
+
+
+                </div>
+                <div class="col-sm-3 col-xs-12" style="padding-left: 55px;">
+                    <strong class="heading" style="text-align: left; margin-top: 15px;">PRODUCTS</strong>
+                        <a href="contentcreators">Distribute Delivery</a><br>
+                        <a href="mediacompanies">Content Exchange</a><br>
+                        <a href="mediacompanies">Content Market</a><br>
+                        <a href="http://mobilismobile.com" target="_blank">Mobilis Mobile</a><br>
+                        <a href="mediarequester">Media Requester</a><br>
+                        <a href="features">Media Reputations</a><br><br>               
+                </div>
+
+                <div class="col-sm-3 col-xs-12"  style="padding-left: 55px;">
+                    <strong class="heading" style="text-align: left; margin-top: 15px;">SOLUTIONS</strong>
+                            <a href="contentcreators">Content Delivery</a><br>
+                            <a href="mediacompanies">Submission Platform</a><br>
+                            <a href="mediacompanies">Internal Content Exchange</a><br>                         
+                            <a href="mediacompanies">Media Marketplace Platform</a><br>
+                            <a href="http://mobilismobile.com" target="_blank">Mobile Apps</a><br>
+                            <a href="mediarequester">Social Media Acquisition</a><br>
+                            <a href="mediacompanies">Manage Contributor Networks</a><br>
+                            <a href="mediacompanies">Ingets, Import, Transcode</a><br>                         
+                            <a href="mediacompanies">Custom Solutions</a><br>          
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+        <div class="copyright">Cont3nt.com &copy;2015. All rights reserved.</div>
+    </footer>
+
+
+
+    <div class="modal-window" data-modal="5" style="background-color: rgba(43, 55, 105, 0.68);">
+        <div class="modal-box animated center middle"  data-animation="fadeInDown" style="width: 600px; height: 750px; background: #f0f0f0;">
+            <span class="close-btn icon icon-office-52"></span>
+            <div class="preloader-mask">
+                <div class="preloader"><div class="spin base_clr_brd"><div class="clip left"><div class="circle"></div></div><div class="gap"><div class="circle"></div></div><div class="clip right"><div class="circle"></div></div></div></div>
+            </div>
+
+
+
+            <iframe src="https://calendly.com/cont3nt/20min/" frameborder="0" height="700" allowfullscreen></iframe>
+        </div>
+    </div>
+
+
+    <div class="modal-window" data-modal="4">
+        <div class="modal-box align-center">
+            <span class="close-btn icon icon-office-52"></span>
+
+            <h3>Simple form</h3>
+
+            <form class="form subscribe-form" style="padding-top: 10px;">
+                <div class="form-group col-sm-6">
+                    <input size="15" type="text" class="form-control required" name="name" placeholder="Your name" />
+                </div>
+                <div class="form-group col-sm-6">
+                    <input size="25" type="email" class="form-control required" name="email" placeholder="your@email.com" />
+                </div>
+                <div class="form-group col-sm-4 col-sm-offset-4">
+                    <input type="submit" class="btn btn-outline-color btn-block" value="SUBSCRIBE" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="back-to-top"><i class="fa fa-angle-up fa-3x"></i></div>
+
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="assets/js/jquery-1.11.3.min.js?ver=1"></script>
+    <![endif]-->
+    <!--[if (gte IE 9) | (!IE)]><!-->
+        <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js?ver=1"></script>
+    <!--<![endif]-->
+
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.plugin.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.countdown.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.waypoints.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="assets/js/toastr.min.js"></script>
+    <script type="text/javascript" src="assets/js/startuply.js"></script>
+
+    <script type="text/javascript" src="assets/js/modal-box.js"></script>
+
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+
+</body>
+</html>
